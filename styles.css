@@ -4,7 +4,7 @@
 @media(max-width:650px){.nav{justify-content:space-between}.brand{position:static}.brand img{width:125px}.menu-toggle{display:block}.nav-links{display:none;position:absolute;top:76px;left:0;right:0;background:#111827;padding:20px;flex-direction:column;gap:18px}.nav-links.open{display:flex}.hero{min-height:auto}.hero-content{min-height:auto}.hero h1{font-size:58px}.hero-photo{width:220px}.section{padding:70px 0}.interest-grid,.about-favorites,.preview-grid,.full-gallery,.shots-gallery,.edit-gallery{grid-template-columns:1fr}.facts-grid{grid-template-columns:1fr 1fr}.fact{border-right:0}.fact:nth-child(odd){border-right:1px solid var(--line)}.favorite-copy{padding:30px}.favorite-copy h3{font-size:39px}.page-hero{padding:75px 0}.page-hero h1{font-size:58px}.quote-box blockquote{font-size:31px}.section-heading-row{align-items:start;flex-direction:column}}
 
 /* Final refinements */
-.brand img{max-height:200px;object-fit:contain}
+.brand img{max-height:220px;object-fit:contain}
 .favorite-image,.marvel-visual{padding:14px;background:#f9f4ee}
 .favorite-image img,.marvel-visual img{border:1px solid rgba(17,24,39,.18)}
 .favorite-copy .mini-label{font-size:13px;letter-spacing:3.4px}
